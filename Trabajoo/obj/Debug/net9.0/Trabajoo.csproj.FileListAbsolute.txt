@@ -1,0 +1,14 @@
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\bin\Debug\net9.0\Trabajoo.exe
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\bin\Debug\net9.0\Trabajoo.deps.json
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\bin\Debug\net9.0\Trabajoo.runtimeconfig.json
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\bin\Debug\net9.0\Trabajoo.dll
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\bin\Debug\net9.0\Trabajoo.pdb
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\obj\Debug\net9.0\Trabajoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\obj\Debug\net9.0\Trabajoo.AssemblyInfoInputs.cache
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\obj\Debug\net9.0\Trabajoo.AssemblyInfo.cs
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\obj\Debug\net9.0\Trabajoo.csproj.CoreCompileInputs.cache
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\obj\Debug\net9.0\Trabajoo.dll
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\obj\Debug\net9.0\refint\Trabajoo.dll
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\obj\Debug\net9.0\Trabajoo.pdb
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\obj\Debug\net9.0\Trabajoo.genruntimeconfig.cache
+C:\Users\Benja-Cmd\Desktop\Trabajo\Trabajoo\obj\Debug\net9.0\ref\Trabajoo.dll
